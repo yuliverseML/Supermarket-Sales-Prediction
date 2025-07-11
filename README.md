@@ -6,7 +6,7 @@ Sales forecasting, customer behavior analysis, and performance metrics
 This project analyzes supermarket sales data to identify patterns, extract insights, and build predictive models. It includes comprehensive data exploration, preprocessing, feature engineering, and customer segmentation to understand sales drivers and customer behavior.
 
 ## Data
-The analysis uses [**Supermarket Sales**](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales) dataset containing transaction records with features such as:
+The analysis uses [**Supermarket Sales Dataset**](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales) containing transaction records with features such as:
 - Branch and city information
 - Customer demographics (gender, type)
 - Product categories and pricing
@@ -107,7 +107,7 @@ The analysis reveals valuable insights about:
 - XGBoost's superior performance suggests complex non-linear relationships in the data
 
 ## Contributing
-1. 
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
